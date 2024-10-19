@@ -1,6 +1,6 @@
 # Multimodal-Retrieval-Augmented-Generation-with-Langchain-and-Google-GenAI
 
-Project Title:
+Project Title:<br>
 Multimodal Retrieval-Augmented Generation with Langchain and Google GenAI
 
 Project Overview:
